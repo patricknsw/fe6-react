@@ -20,12 +20,13 @@ const Navbar = () => {
             <div className="main-menu">
                 <PageLinks groupClass="main-menu-list" />
 
+                <SocialLinks groupClass="nav-icons"  listItemClass="nav-icon"/>
 
-                <ul className="nav-icons">
+                {/* <ul className="nav-icons">
                     <li><a href="#" className="nav-icon"><i className="fa-brands fa-facebook"></i></a></li>
                     <li><a href="#" className="nav-icon"><i className="fa-brands fa-threads"></i></a></li>
                     <li><a href="#" className="nav-icon"><i className="fa-brands fa-x-twitter"></i></a></li>
-                </ul>
+                </ul> */}
             </div>
     
             {/* <!-- mobile menu --> */}

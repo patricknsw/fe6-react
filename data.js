@@ -10,11 +10,9 @@ export const pageLinks = [
 
 
 export const socialLinks = [
-    {id : 1 , href: "www.facebook.com", iconClass: "fa-brands fa-facebook"  } ,
-    {id : 2 , href: "www.threads.com", iconClass: "fa-brands fa-threads"  } ,
-    {id : 3 , href: "www.twitter.com", iconClass: "fa-brands fa-x-twitter"  } ,
-
-
+    {id : 1 , href: "https://www.facebook.com", iconClass: "fa-brands fa-facebook"  } ,
+    {id : 2 , href: "https://www.threads.com", iconClass: "fa-brands fa-threads"  } ,
+    {id : 3 , href: "https://www.twitter.com", iconClass: "fa-brands fa-x-twitter"  } ,
 ]
 
 
